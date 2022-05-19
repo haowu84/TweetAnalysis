@@ -1,3 +1,14 @@
+# HTML, CSS, Bootstrap, JavaScript, jQuery, TypeScript #
+**Summarize Tweets**\
+Date, Category, Default Text Detection
+
+**Activity Graphs**\
+Graph: Activity Type vs Distance vs Time
+
+**Search Interface**\
+Keyword Search
+
+# References #
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://www.typescriptlang.org/docs/handbook/basic-types.html
 https://vega.github.io/vega-lite/tutorials/explore.html
